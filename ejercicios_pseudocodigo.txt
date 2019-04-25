@@ -1,0 +1,17 @@
+Inicio
+Inicia ciclo para
+Desde 0 hasta 100 incrementando de uno en uno
+Imprime índice
+Imprime " , "
+Fin Para
+Fin
+
+Inicio
+Define contador igual a 0
+Haz
+Imprime contador
+Imprime " , "
+Incrementa contador
+mientras que el contador sea menor o igual a 100 incrementando de uno en uno
+Fin do while
+Fin
